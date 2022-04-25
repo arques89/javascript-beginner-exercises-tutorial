@@ -2,7 +2,7 @@
 
 Desde 2015, JavaScript también permite el uso de **constantes**.
 
-Se diferencian de las variables porque, una vez declaradas, no se les puede cambiar el valor con el tiempo (a diferencia de la variables).
+Se diferencian de las variables porque, una vez declaradas, no se les puede cambiar el valor con el tiempo (a diferencia de las variables).
 
 Para declarar una constante, debes usar la palabra reservada `const` en vez de `var`, de esta forma:
 
